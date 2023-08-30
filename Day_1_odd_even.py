@@ -16,4 +16,5 @@ Total Number of steps = 2 (operations + conditional check)
 Therefore O(2) --> O(1) which indicates that the program takes constant time for any input and is not dependent on the size of the input.
 
 Space Complexity = O(1) which indicated that the program takes constant space and does not change with the input . 
+'''
 
